@@ -1,0 +1,369 @@
+                            nav {
+                                position: fixed;
+                                top: 0;
+                                left: 0;
+                                right: 0;
+                            }
+                            
+                            ul li {
+                                font-weight: bolder;
+                                padding: 10px;
+                            }
+                            
+                            ul li:hover {
+                                font-size: 150%;
+                            }
+                            
+                            .navbar-brand {
+                                font-family: 'anton';
+                                font-size: 170px;
+                            }
+                            
+                            .container img {
+                                padding: 20px;
+                            }
+                            
+                            .container .abtme h1 {
+                                font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+                                float: right;
+                                margin-right: 40%;
+                                margin-top: -39%;
+                            }
+                            
+                            .abtme #desc {
+                                float: right;
+                                font-family: 'Times New Roman', Times, serif;
+                                font-weight: bold;
+                                margin-top: -29%;
+                                margin-right: 27%;
+                            }
+                            
+                            .abtme #subhead {
+                                float: right;
+                                margin-top: -34%;
+                                margin-right: 43%;
+                            }
+                            
+                            .abtme #biodata {
+                                float: right;
+                                font-family: 'Times New Roman', Times, serif;
+                                font-weight: bold;
+                                margin-top: -12%;
+                                margin-right: 9%;
+                            }
+                            
+                            .container #initials {
+                                color: blue;
+                            }
+                            
+                            .container {
+                                padding: 30px;
+                            }
+                            
+                            .myskills h2 {
+                                margin-top: 5%;
+                                margin-left: 43%;
+                                border: 2px solid black;
+                                width: 15%;
+                                font-family: 'Carter One', cursive;
+                                padding: 15px;
+                            }
+                            
+                            .technical {
+                                margin-left: 9%;
+                                margin-top: 5%;
+                                font-family: 'Abril Fatface', cursive;
+                                color: maroon;
+                            }
+                            
+                            .technical #techdesc {
+                                font-family: 'Arial', Helvetica, sans-serif;
+                                text-align: left;
+                                width: 40%;
+                            }
+                            
+                            .progress {
+                                width: 20%;
+                                margin-left: 9%;
+                            }
+                            
+                            #prohead {
+                                padding: 6px;
+                                margin-left: 8.6%;
+                            }
+                            
+                            .otherskills {
+                                margin-left: 60%;
+                                margin-top: -41%;
+                                font-family: 'Abril Fatface', cursive;
+                                color: maroon;
+                            }
+                            
+                            .otherskills #otherdesc {
+                                font-family: 'Arial', Helvetica, sans-serif;
+                                text-align: left;
+                                width: 80%;
+                            }
+                            
+                            #procomm {
+                                margin-left: 60%;
+                                margin-top: 5%;
+                            }
+                            
+                            .progress2 .progress {
+                                margin-left: 60%;
+                            }
+                            
+                            .container .sslc {
+                                border: 0px solid black;
+                                width: 40%;
+                                padding: 20px;
+                                background-color: rgb(219, 236, 241);
+                                margin: 6%;
+                            }
+                            
+                            .sslc span {
+                                color: blueviolet;
+                                margin: 40%;
+                            }
+                            
+                            #edu {
+                                margin-top: 5%;
+                                margin-left: 43%;
+                                border: 2px solid black;
+                                width: 18%;
+                                font-family: 'Carter One', cursive;
+                                padding: 15px;
+                            }
+                            
+                            .container .hsc {
+                                border: 0px solid black;
+                                width: 40%;
+                                padding: 20px;
+                                background-color: rgba(227, 236, 200, 0.918);
+                                float: right;
+                                margin-top: -5%;
+                                margin-right: 3%;
+                            }
+                            
+                            .hsc span {
+                                color: blueviolet;
+                                margin: 40%;
+                            }
+                            
+                            .container .ug {
+                                border: 0px solid black;
+                                width: 40%;
+                                padding: 20px;
+                                background-color: cornsilk;
+                                margin-top: 20%;
+                                margin-left: 5%;
+                            }
+                            
+                            .ug span {
+                                color: blueviolet;
+                                margin: 40%;
+                            }
+                            
+                            .education {
+                                background-color: orange;
+                            }
+                            
+                            .skills {
+                                background-color: rgb(224, 235, 199);
+                            }
+                            
+                            .information {
+                                background-color: rgb(230, 216, 236);
+                            }
+                            
+                            .achievements {
+                                background-color: rgb(124, 252, 252);
+                            }
+                            
+                            .hobbies {
+                                background-color: rgb(171, 248, 175);
+                            }
+                            
+                            #achieve {
+                                margin-top: 5%;
+                                margin-left: 40%;
+                                border: 2px solid black;
+                                width: fit-content;
+                                font-family: 'Carter One', cursive;
+                                padding: 15px;
+                            }
+                            
+                            .achievements h4 {
+                                font-family: 'Do Hyeon', sans-serif;
+                                font-size: 50px;
+                                margin: 20px;
+                            }
+                            
+                            .achievements span {
+                                margin-left: 70%;
+                                font-family: 'Times New Roman', Times, serif;
+                                font-weight: bold;
+                            }
+                            
+                            .achievements p {
+                                font-size: 25px;
+                                color: rgb(24, 24, 66);
+                                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                            }
+                            
+                            .achievements p::first-letter {
+                                font-size: 45px;
+                            }
+                            
+                            .container .achievements {
+                                display: flex;
+                                flex-direction: row;
+                                margin: 20px;
+                            }
+                            
+                            #hob {
+                                margin-top: 5%;
+                                margin-left: 43%;
+                                border: 2px solid black;
+                                width: fit-content;
+                                font-family: 'Carter One', cursive;
+                                padding: 15px;
+                            }
+                            
+                            .hobbies p {
+                                font-size: 25px;
+                                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                            }
+                            
+                            .hobbies h3 {
+                                background-color: black;
+                                color: white;
+                                width: fit-content;
+                                padding: 15px;
+                                font-family: 'Sansita Swashed', cursive;
+                            }
+                            
+                            @media only screen and (max-width:768px) {
+                                .container {
+                                    overflow-x: hidden;
+                                }
+                                .information img {
+                                    height: 50%;
+                                    width: 80%;
+                                    margin-top: -40px;
+                                    margin-left: 9%;
+                                }
+                                .information h1,
+                                span {
+                                    margin-left: 28%;
+                                }
+                                .abtme {
+                                    margin-top: 40%;
+                                }
+                                .abtme #subhead {
+                                    margin-top: -20%;
+                                    margin-left: 30%;
+                                    display: inline-block;
+                                    font-size: 13px;
+                                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                }
+                                .abtme #desc {
+                                    margin-top: -10%;
+                                    width: 50%;
+                                    margin-left: 30%;
+                                    text-align: start;
+                                    font-size: 20px;
+                                }
+                                .abtme #biodata {
+                                    margin-top: 10%;
+                                    font-size: 15px;
+                                    width: 70%;
+                                }
+                                .skills h2 {
+                                    width: fit-content;
+                                    margin-left: 80px;
+                                }
+                                .technical #techdesc {
+                                    width: 100%;
+                                    padding: 20px;
+                                }
+                                .technical h3 {
+                                    margin-left: 30px;
+                                }
+                                .otherskills {
+                                    margin-top: 30px;
+                                    margin-left: 40px;
+                                    width: 100%;
+                                }
+                                .progress {
+                                    margin-left: 100px;
+                                    width: 100px;
+                                }
+                                #prohead {
+                                    margin-left: 100px;
+                                }
+                                .progress2 {
+                                    margin-left: 40px;
+                                    width: 100px;
+                                }
+                                #procomm {
+                                    margin-left: 100px;
+                                }
+                                #procomm2 {
+                                    margin-left: 60px;
+                                }
+                                .education #edu {
+                                    width: fit-content;
+                                    margin-left: 70px;
+                                }
+                                .education {
+                                    display: flex;
+                                    flex-direction: column;
+                                }
+                                .education .sslc {
+                                    width: 100%;
+                                    margin-left: 0px;
+                                }
+                                .education .hsc {
+                                    width: 100%;
+                                    margin-top: -20px;
+                                }
+                                .education .ug {
+                                    width: 100%;
+                                    margin-left: 0px;
+                                    margin-top: 0px;
+                                }
+                                .education span {
+                                    font-size: 13px;
+                                    margin-left: auto;
+                                    margin: 120px;
+                                }
+                                .achievements #achieve {
+                                    margin-left: 30px;
+                                    width: fit-content;
+                                }
+                                .achievements span {
+                                    font-size: 34px;
+                                    margin-left: 70px;
+                                }
+                                .achievements p {
+                                    text-align: justify;
+                                }
+                                .achievements .pics #grp,
+                                #mom,
+                                #own,
+                                #paper,
+                                #cup,
+                                #ball {
+                                    border: 10px solid black;
+                                    margin: 20px 0;
+                                }
+                                .hobbies #hob {
+                                    margin-left: 90px;
+                                    width: fit-content;
+                                }
+                                .hobbies img {
+                                    border-radius: 40px;
+                                }
+                            }
